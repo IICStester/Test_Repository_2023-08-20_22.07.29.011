@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "ax1z71hj2CjkjeAEFI18Cn",
+    "id" : "6XFHgJGXVkHg1EJ47Q1J0n",
     "name" : "Empty_Project_Renamed",
     "type" : "Project",
     "metadata" : {
@@ -11,13 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Project To be Renamed",
+        "description" : null,
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-08-21T05:09:22.260Z",
+  "updateTime" : "2023-08-21T05:11:58.992Z",
   "objectRefs" : [ ]
 }
